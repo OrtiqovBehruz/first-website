@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.topbar{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-color: white;
+    height: 70px;
+
+}
+.topbar a{
+    margin: 0 10px;
+    text-decoration: none;
+    color:black;
+    text-transform: uppercase;
+    font-size: 18px;
+   
+}
+body{
+    background-color: black;
+}
